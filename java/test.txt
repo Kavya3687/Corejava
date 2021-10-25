@@ -1,0 +1,57 @@
+1.bytecode is nothing but which is codes are in coverted byte format or structure and is converted by jre.
+2.features:
+object oriented
+multithreading
+robust
+secure
+write once run anywhere
+3.instanceof
+4.yes java is purly object oriented programming language because it uses objects,class
+5.no we can't do that
+6.there are 4 types in variables in java those are
+instance
+static
+local
+parameter
+7.its mandatory to specify datatype in java to provide perticular value to variables
+8.types of datatypes:
+there are 2 types
+primitive data type and non primitive datatype
+primitive are the predefined datatype which are used to predefine the datatyes
+in primitive we have 8 datatypes those are
+int 
+byte
+long
+short
+float
+double
+boolean 
+char
+non primitive are the instance or reference datatype are should be accesed by any reference or instance variables
+in non primitive we have string,class,arrays
+9.it's error because variables are not decalred or initialized starting with any special characters like *,$,_ etc it should be start with alphabets
+10.error because it needs else statement there bo0lean is intialized with true value
+11.modulus operators are like % which is used to initializes the string type value like to recognise string with missing character.
+12.compilation error
+13.All
+14.3
+15.there are 3 types of loops java has to support
+16.jre
+17.class default{
+		static float value;
+		public static void main(String []args){
+		System.out.println("float is:"+value+"thank you");
+		}
+}
+18.in java when we declare the variable using static keyword even without initialized compiler will provide default value for that static variable.
+19.Wrapper class are having reference datatypes for all primitive data type also by which we can converted one data type to another data type
+wrapper classes are:
+Integer
+Byte
+Long
+Short
+Double
+Float
+Boolean
+Character
+
